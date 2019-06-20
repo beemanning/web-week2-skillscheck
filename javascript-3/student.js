@@ -4,22 +4,22 @@
 //////////////////STEP 1////////////////////
 //Create an array called 'groceries' that contains three grocery items as a string
 
-// Code Here
+arr.groceries = ["cereal", "arnold schwarzenegger", "more cereal"];
 
 //////////////////STEP 2////////////////////
 //Create a variable called 'yourName' that is equal to your name as a string
 
-// Code Here
+var yourName = 'Braelyn Manning'
 
 //////////////////STEP 3////////////////////
 //Create a function called 'setGroceryListTitle' that takes in one parameter called x. The function should return a string of 'XPARAM's Grocery List'.
 
-// Code Here
+function setGroceryListTitle
 
 //////////////////STEP 4////////////////////
 //Create a function called 'addItem' that takes in one paramter called item. Add the item param to the end of the groceries array created above. Inside of addItem, invoke displayData() which is a function we created that takes care of some of the leg work unrelated to this module.
 
-// Code Here
+// function addItem =
 
 //////////////////STEP 5////////////////////
 //Create a function called removeItem that takes in one parmater called index. Inside of the function remove the item from the groceries array above using splice. Invoke the displayData() function again.
